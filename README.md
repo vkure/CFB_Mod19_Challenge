@@ -38,17 +38,12 @@ Transaction Details:
 
 ![Transaction Details](Images/TransactionDets2.PNG)
 
-Account History:
+Transaction History:
 
 ![Transaction History](Images/TransactionHistory.PNG)
 
-Sender Account History:
 
-![Recipient Address](Images/Validation.PNG)
 
-Receiver Account History:
-
-![Recipient Address](Images/Validation.PNG)
 
 ## Contributors
 Vishnu Kurella, vishnu.kurella@gmail.com
